@@ -30,9 +30,6 @@
 </p>
 
 
----
-<br>
 ![image](https://www.codewars.com/users/jell22y/badges/small)
-<br>
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=jell22y)](https://solved.ac/jell22y)
