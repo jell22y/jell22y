@@ -2,6 +2,8 @@
 
 <p align="center"> <b> &#128187; Tech Stack </b> </p>
 
+<br>
+
 <p align="center"> <b> Major Skill </b> </p>
 <p align="center">
 <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white"/></a>&nbsp
@@ -26,3 +28,11 @@
 <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/></a>&nbsp
 </p>
+
+
+---
+<br>
+![image](https://www.codewars.com/users/jell22y/badges/small)
+<br>
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=jell22y)](https://solved.ac/jell22y)
