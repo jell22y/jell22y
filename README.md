@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=220&text=YooChang%20Yoon&animation=twinkling&desc=jell22y's%20github&fontAlignY=40&descAlign=72&descAlignY=60)
 
-<p align="center"> <font size = "3"> <b> &#128187; Tech Stack </b> </font> </p>
+<p align="center"> <b> &#128187; Tech Stack </b> </p>
 
 <p align="center"> <b> Major Skill </b> </p>
 <p align="center">
