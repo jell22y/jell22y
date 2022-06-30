@@ -31,5 +31,4 @@
 
 
 ![image](https://www.codewars.com/users/jell22y/badges/small)
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=jell22y)](https://solved.ac/jell22y)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=jell22y)](https://solved.ac/jell22y)
